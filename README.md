@@ -11,7 +11,7 @@
 3. **Additional Key Reports**  
    - **[Division Report](https://github.com/prudhvi1029/Excel-Sales-Analytics/blob/main/Sales_Reports/Division%20Report.pdf)**: In-depth analysis of sales performance by business division.  
    - **Top 5/Bottom 5 Products**: Highlighted the best-performing and least-performing products.  
-   - **New Products Report**: Assessed the market adoption and performance of newly launched products.  
+   - **[New Products Report](https://github.com/prudhvi1029/Excel-Sales-Analytics/blob/main/Sales_Reports/New%20Products%202021.pdf)**: Assessed the market adoption and performance of newly launched products.  
 
 
 
