@@ -6,7 +6,7 @@
    - Developed a detailed [Customer Performance Report](https://github.com/prudhvi1029/Excel-Sales-Analytics/blob/main/Sales_Reports/Customer%20Performance%20Report.pdf) to evaluate individual customer contributions and performance trends.  
 
 2. **Market and Sales Target Analysis**  
-   - Delivered a robust comparison between [Market Performance and Sales Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) to identify growth opportunities and gaps.  
+   - Delivered a robust comparison between [Market Performance and Sales Targets](https://github.com/prudhvi1029/Excel-Sales-Analytics/blob/main/Sales_Reports/Market%20Performance%20vs%20Target%20Report.pdf) to identify growth opportunities and gaps.  
 
 3. **Additional Key Reports**  
    - **Division Report**: In-depth analysis of sales performance by business division.  
