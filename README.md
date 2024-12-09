@@ -3,7 +3,7 @@
 ## Sales Report Objectives  
 
 1. **Comprehensive Customer Insights**  
-   - Developed a detailed [Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) to evaluate individual customer contributions and performance trends.  
+   - Developed a detailed [Customer Performance Report](https://github.com/prudhvi1029/Excel-Sales-Analytics/blob/main/Sales_Reports/Customer%20Performance%20Report.pdf) to evaluate individual customer contributions and performance trends.  
 
 2. **Market and Sales Target Analysis**  
    - Delivered a robust comparison between [Market Performance and Sales Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) to identify growth opportunities and gaps.  
