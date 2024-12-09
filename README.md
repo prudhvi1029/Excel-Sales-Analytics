@@ -35,9 +35,10 @@ Empowering businesses with data-driven decision-making tools to monitor and enha
 
 ## Finance Report Objectives  
 
-1. **Profit and Loss (P&L) by Fiscal Year and Month**  
+1. **Profit and Loss (P&L) by Fiscal Year**  
    - Designed detailed [Fiscal Year P&L Reports](https://github.com/prudhvi1029/Excel-Sales-Analytics/blob/main/Financial_Reorts/P%26L%20Statement%20by%20Fiscal%20Year.pdf).  
-
+2. **Profit and Loss (P&L) by Fiscal Month**
+   - Designed detailed [Fiscal Month P&L Reports]
 2. **Profit and Loss (P&L) by Market**  
    - Delivered an insightful [Market-Based P&L Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf) for regional financial performance evaluation.  
 
